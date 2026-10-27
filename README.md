@@ -2,7 +2,7 @@
 
 A full-stack CRUD application for managing product inventory, built with **React + Tailwind CSS** on the frontend and **Node.js + Express + MongoDB (Mongoose)** on the backend.
 
-Live demo: _add URL after deploying (see Deployment below)_
+Live demo: https://stockflow-xf3m.onrender.com
 
 ## Features
 
